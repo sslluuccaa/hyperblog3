@@ -1,2 +1,2 @@
-# hyperblog2
+# hyperblog3
 Un blog increíble para el curso de Git y GitHub de Platzi
